@@ -1,24 +1,13 @@
-# README
+# DMM WEBCAMP 課題2：アプリケーションを作成してみよう：基礎編
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+テーマ： 読んだ本の感想を投稿するサイト
 
-Things you may want to cover:
+実装機能
 
-* Ruby version
+・　本のタイトル、説明の投稿機能
 
-* System dependencies
+・　投稿した本の一覧機能
 
-* Configuration
+・　投稿した本の編集機能
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+・　投稿した本の削除機能
